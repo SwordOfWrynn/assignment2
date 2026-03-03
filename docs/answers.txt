@@ -1,0 +1,38 @@
+1.
+aaron@aaronmain:~/Documents/fsu/cen4020/assignment2$ git push
+Enumerating objects: 9, done.
+Counting objects: 100% (9/9), done.
+Delta compression using up to 16 threads
+Compressing objects: 100% (5/5), done.
+Writing objects: 100% (7/7), 871 bytes | 871.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0), pack-reused 0 (from 0)
+remote: Resolving deltas: 100% (2/2), completed with 1 local object.
+To github.com:SwordOfWrynn/assignment2.git
+   f4975e5..1f1ee80  master -> master
+
+2.
+9 commits total from reading 'git shortlog'
+
+3.
+Tue Mar 3 15:35:02 2026 -0600 from 'git log README.md'
+
+4.
+Branches allow you to work with the risk of conflicting with change on the other 
+branches, and it allows you to potentially break the code on the branch while
+implementing or reworking something without affecting the main code
+
+5.
+git status show what you have added to git, uncommitted changes and how many local
+branch commits you have that are not on remote. git log shows the git commit history
+
+6.
+git log Vehicle.h
+
+7.
+git log --grep=file
+
+8.
+Inheritance is when a class has a child that that implements all of its public
+functions. Polymorphic is when you can  apply the parent class and its parts onto the
+derived classes and objects as well. Encapsulation is having all the related data and
+operations of a model in one class instead of scattered in different areas.
