@@ -32,7 +32,7 @@ branches, and it allows you to potentially break the code on the branch while
 implementing or reworking something without affecting the main code
 
 5.
-git status show what you have added to git, uncommitted changes and how many local
+git status shows what you have added to git, uncommitted changes and how many local
 branch commits you have that are not on remote. git log shows the git commit history
 
 6.
@@ -43,7 +43,7 @@ git log --grep=file
 
 8.
 Inheritance is when a class has a child that that implements all of its public
-functions. Polymorphic is when you can  apply the parent class and its parts onto the
+functions. Polymorphic is when you can apply the parent class and its parts onto the
 derived classes and objects as well. Encapsulation is having all the related data and
 operations of a model in one class instead of scattered in different areas.
 
@@ -54,7 +54,7 @@ the developers under them before pushing to dictator, then the dictator fixes co
 from the lieutenants before pushing to the blessed repository.
 
 10.
-In centralized each developer would have to manage conflicts with up to 100 other developers.
-With Dictator and lieutenant, each lieutenany only need to deal with conflicts from a subset
-of the developers, then the dictator only needs to deal eith conflicts from the lieutenants,
+In Centralized each developer would have to manage conflicts with up to 100 other developers.
+With Dictator and Lieutenants, each lieutenant only needs to deal with conflicts from a subset
+of the developers, then the dictator only needs to deal with conflicts from the lieutenants,
 reducing conflict resolution workload on each individual.
