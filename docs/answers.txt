@@ -1,3 +1,13 @@
+https://learngitbranching.js.org/ on March 2,
+https://git-school.github.io/visualizing-git/ and 
+http://try.github.io/ on March 3
+Not sure how you wanted proof, screenshot of each site's work are in the repo
+
+My GitHub account https://github.com/SwordOfWrynn was created about Jan 3 2018
+(thats my first commit anyway)
+
+My assignment repo: https://github.com/SwordOfWrynn/assignment2
+
 1.
 aaron@aaronmain:~/Documents/fsu/cen4020/assignment2$ git push
 Enumerating objects: 9, done.
@@ -36,3 +46,15 @@ Inheritance is when a class has a child that that implements all of its public
 functions. Polymorphic is when you can  apply the parent class and its parts onto the
 derived classes and objects as well. Encapsulation is having all the related data and
 operations of a model in one class instead of scattered in different areas.
+
+9.
+With Integration Manager, the one integration manager fixes all conflicts before push to
+the blessed repository. With Dictator and Lieutenants the liutenants fix the conflicts from
+the developers under them before pushing to dictator, then the dictator fixes conflicts     
+from the lieutenants before pushing to the blessed repository.
+
+10.
+In centralized each developer would have to manage conflicts with up to 100 other developers.
+With Dictator and lieutenant, each lieutenany only need to deal with conflicts from a subset
+of the developers, then the dictator only needs to deal eith conflicts from the lieutenants,
+reducing conflict resolution workload on each individual.
